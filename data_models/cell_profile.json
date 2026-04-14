@@ -1,0 +1,7 @@
+{
+  "cell_id": "example",
+  "capacity_ah": 2.5,
+  "voltage_nominal": 3.7,
+  "internal_resistance_mohm": 50,
+  "cycles": 800
+}
